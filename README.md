@@ -18,21 +18,13 @@
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/NETLIFY-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+#### IA (para todo el camino)
+![Claude](https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 #### 5. Marketing & Analítica
 ![Google Analytics](https://img.shields.io/badge/GOOGLE_ANALYTICS-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Search Console](https://img.shields.io/badge/SEARCH_CONSOLE-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 
-#### IA (para todo el camino)
-![Claude](https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
-
-### Ruta de aprendizaje
-- [ ] Figma: interfaces y prototipos básicos
-- [ ] HTML y CSS: maquetar una página simple
-- [ ] Framer o Webflow: publicar una landing
-- [ ] JavaScript básico: interacciones simples
-- [ ] Git, GitHub y Vercel: guardar y publicar proyectos
-- [ ] Google Analytics y Search Console: medir tus sitios
