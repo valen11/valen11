@@ -17,7 +17,7 @@ Featured Projects: [Project]()
 <img align="left" height="94px" width="94px" alt="UNQ" src="https://github.com/user-attachments/assets/0cd39bac-1c97-4bc5-9bc2-2c4d223f1312" />
 
 **Programming Technician (Graduate)** \
-[**Universidad Nacional de Quilmes (ESET-UNQ)**](https://www.unq.edu.ar/) • (**2017-2023**) \
+[**Universidad Nacional de Quilmes (ESET-UNQ)**](https://www.unq.edu.ar/) • (**2020-2025**) \
 Areas of study: `Computer Science`\
 Featured Projects: [Project]()
 
@@ -25,7 +25,7 @@ Featured Projects: [Project]()
 
 <img align="left" height="94px" width="94px" alt="INFO" src="https://github.com/user-attachments/assets/1e87c52e-9770-4eb1-b32e-8c40fa760081" />
 
-**Programmer Analyst** \
+**Information and Communication Technology Analyst** \
 [**Universidad Nacional de La Plata**](https://www.info.unlp.edu.ar/) • (**2026-2028**) \
 Areas of study: `Computer Science`\
 Featured Projects: [Project]()
@@ -34,11 +34,11 @@ Featured Projects: [Project]()
 
 ### Certifications
 
-<img align="left" height="94px" width="94px" alt="IBM" src="https://github.com/user-attachments/assets/ba1ff127-af80-4cce-a0eb-ed8400d53180" />
+<img align="left" height="94px" width="94px" alt="IBM" src="link" />
 
 **¿What is open source?** \
-[**IBM**](https://www.ibm.com/account/reg/es-es/signup?formid=urx-54369) • Completo \
-Areas of study: `Open source`, `Linux`
+[**Empresa**](link) • Completo \
+Areas of study: ``, ``
 
 <br/>
 <hr/>
@@ -74,24 +74,8 @@ Areas of study: `Open source`, `Linux`
 
 <hr/>
 
-### Learning Path
-
-- [ ] Figma: interfaces and basic prototypes
-- [ ] HTML & CSS: build a simple page
-- [ ] Framer or Webflow: publish a landing page
-- [ ] JavaScript basics: simple interactions
-- [ ] Git, GitHub & Vercel: save and publish projects
-- [ ] Google Analytics & Search Console: measure your sites
-
-<hr/>
-
 #### Featured Projects
-- [**ARM-Robot (Dummy)**](https://github.com/Ezequiel-Pavon/ARM-Robot) — Dummy Robotic arm ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![Autodesk](https://img.shields.io/badge/-CAD-4A90D9?style=flat&logo=autodesk&logoColor=white)
-- [**Jarvis AI**](https://github.com/Ezequiel-Pavon/Jarvis) — Local voice assistant with tool calling ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-- [**dotfiles**](https://github.com/Ezequiel-Pavon/dotfiles) — i3wm (tiling window manager on Linux) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-- [**NLP**](https://github.com/reqwithnlp-dotcom/Uso-de-NLP-AI-y-LLMs-a-textos-semiestructurados-para-mejorar-la-calidad-y-extraer-informacion) — NLP AI and LLMs to semi-structured texts. ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-<hr/>
 
 ### Areas of Interest
 
@@ -99,9 +83,3 @@ Areas of study: `Open source`, `Linux`
 - Web Design
 - Digital Marketing & Analytics
 - Front-end Development
-
-<hr/>
-
-Find me on [<img align="center" height="32px" src="https://img.icons8.com/color/48/linkedin.png"/>](https://www.linkedin.com/in/eduardo-howard-ezequiel-pavon/)
-[<img align="center" height="32px" src="https://img.icons8.com/color/48/youtube-play.png"/>](https://www.youtube.com/@howieze)
-[<img align="center" height="32px" src="https://img.icons8.com/color/48/pinterest.png"/>](https://ar.pinterest.com/howieze)
