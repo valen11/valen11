@@ -1,16 +1,38 @@
-## Hi  
+### Tech Stack
 
-<!--
-**valen11/valen11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 1. Diseño UX/UI
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-Here are some ideas to get you started:
+#### 2. Código Base
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 3. Diseño Web Sin Código (elegí una)
+![Framer](https://img.shields.io/badge/FRAMER-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Webflow](https://img.shields.io/badge/WEBFLOW-146EF5?style=for-the-badge&logo=webflow&logoColor=white)
+
+#### 4. Control de Versiones & Deploy
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/NETLIFY-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+#### 5. Marketing & Analítica
+![Google Analytics](https://img.shields.io/badge/GOOGLE_ANALYTICS-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Search Console](https://img.shields.io/badge/SEARCH_CONSOLE-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+
+#### IA (para todo el camino)
+![Claude](https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+---
+
+### Ruta de aprendizaje
+- [ ] Figma: interfaces y prototipos básicos
+- [ ] HTML y CSS: maquetar una página simple
+- [ ] Framer o Webflow: publicar una landing
+- [ ] JavaScript básico: interacciones simples
+- [ ] Git, GitHub y Vercel: guardar y publicar proyectos
+- [ ] Google Analytics y Search Console: medir tus sitios
