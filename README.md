@@ -1,3 +1,42 @@
+<img width="1378" height="520" alt="profile" src="https://github.com/user-attachments/assets/73d09c53-ff50-4590-979a-1b5721d98e42" />
+<svg xmlns="http://www.w3.org/2000/svg" width="1378" height="520" viewBox="0 0 1378 520">
+  <style>
+    .terminal {
+      fill: #18122b;
+      stroke: #ff79c6;
+      stroke-width: 1.5;
+      rx: 12px;
+    }
+    .text-base {
+      font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 13.5px;
+      line-height: 16px;
+    }
+    .ascii-text {
+      font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 8px;
+      fill: #f5f5f5;
+      letter-spacing: 0px;
+    }
+    .title { fill: #00f0ff; font-weight: bold; }
+    .key { fill: #ff79c6; }
+    .val { fill: #f5f5f5; }
+    .decor { fill: #635985; }
+    .bullet { fill: #635985; }
+  </style>
+
+  <!-- Background Card -->
+  <rect class="terminal" width="1368" height="510" x="5" y="5" />
+
+  <!-- Mac-Style Window Dots -->
+  <circle cx="25" cy="25" r="6" fill="#ff5f56" />
+  <circle cx="45" cy="25" r="6" fill="#ffbd2e" />
+  <circle cx="65" cy="25" r="6" fill="#27c93f" />
+
+
+
+<hr/>
+
 ### Work experience
 Below is a summary of my most recent work experience:
 
