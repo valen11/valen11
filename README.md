@@ -1,14 +1,11 @@
-<img width="1378" height="520" alt="profile" src="https://github.com/user-attachments/assets/73d09c53-ff50-4590-979a-1b5721d98e42" />
-<svg xmlns="http://www.w3.org/2000/svg" width="1378" height="520" viewBox="0 0 1378 520">
+[README.md](https://github.com/user-attachments/files/32447306/README.md)
+<p align="center">
+  <img src="profile.svg" alt="Hacker Profile" width="1378">
+</p>
 
-
-  <!-- Background Card -->
-  <rect class="terminal" width="1368" height="510" x="5" y="5" />
-
-  <!-- Mac-Style Window Dots -->
-  <circle cx="25" cy="25" r="6" fill="#ff5f56" />
-  <circle cx="45" cy="25" r="6" fill="#ffbd2e" />
-  <circle cx="65" cy="25" r="6" fill="#27c93f" />
+<p align="center">
+  <sub>Readme generated with <a href="https://holasoymalva.github.io/ASCII-README-Generator/">AsciiProfileGenerator</a></sub>
+</p>
 
 
 
